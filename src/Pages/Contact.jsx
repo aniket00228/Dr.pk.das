@@ -73,7 +73,7 @@ const Contact = () => {
             <input
               className="w-full bg-gray-300 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
               type="text"
-              name="user_name "
+              name="user_name"
               required
             />
           </div>
