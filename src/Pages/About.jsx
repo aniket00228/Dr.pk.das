@@ -43,13 +43,13 @@ const About = () => {
             <br className="hidden lg:inline-block" />
           
           </h1>
-          <p className="mb-8 leading-relaxed">
+          <p className="mb-8 leading-relaxed text-justify">
           "Lost Time near Returns", hence, I perceive, all that I have achieved in intellectual and artistic domains, I should make public. I am sixty five years old, and a retired professor of political science. Since, I was a child; I was fascinated with such questions as we usually study in philosophy. However, my parents advised me to do M.A. in English and Political Science, because to get a teachers job in these subject was easier.
           </p>
-          <p className="mb-8 leading-relaxed">
+          <p className="mb-8 leading-relaxed text-justify">
           After working as "Research Associate" for five years, in 1996, I became a Lecturer in Machhra College, Meerut (U.P.) Thereafter till to date; I am fully engrossed in reading and writing. 
           </p>
-          <p className="mb-8 leading-relaxed">
+          <p className="mb-8 leading-relaxed text-justify">
           Dr. P.K. Das is M.A. in Political Science & English Literature and Ph.D. in Political Science on the topic 'Value in Vedantic Tradition'. He has published many research papers and have eighteen published books. I am retired from Asstt. Professor, Department of Political Science, C.S.S.S (P.G.) College Machhra (Meerut), U.P. India. Dr. Das is engaged in creative research on 'Theoretical Aspects of Social Sciences and Philosophy' now a day. 
           </p>
           <div className="flex justify-center">

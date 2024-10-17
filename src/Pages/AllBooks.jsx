@@ -62,7 +62,7 @@ const AllBooks = () => {
             >
               My Books
             </motion.h2>
-            <motion.p className="mb-4" variants={fadeInUp}>
+            <motion.p className="mb-4 text-justify" variants={fadeInUp}>
             I have written eighteen books in an effort to create a comprehensive philosophy. The culmination of your work explores a range of topics, possibly drawing from areas such as ethics, metaphysics, and social theory, and you aim to integrate them into a cohesive worldview. Your final book focuses on Futurology, examining the future of human society, technology, and possible directions for humanity's evolution. Together, your books appear to form a large-scale intellectual project aimed at understanding and forecasting both the present and future dimensions of human existence.
             </motion.p>
           </div>

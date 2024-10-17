@@ -56,10 +56,10 @@ const HomePage = () => {
             <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-black">
             Bhavishya Vigyan par Sodh 
             </h2>
-            <p className="mb-4">
+            <p className="mb-4 text-justify">
             Over the past few years, I have become interested in futurology. The future holds many possibilities. We will try to think about what kind of society we would like to create. The first part of the presented book is based on ideology, the second part is based on futurology and the third part is on the essential elements of ideology. Also, the conclusion in the last and fourth sections is important.
             </p>
-            <p>
+            <p className="text-justify">
             In the two parts of the present book “Research on Future Science” under the subtitle ‘Plato’s Theory in Relation to Mathematics’, I have tried to show by integrating aesthetics with mathematics that the humans of the future will also not be different from the present humans in their perception of beauty. Mathematics is a subject that does not change with evolution.
             </p>
           </div>

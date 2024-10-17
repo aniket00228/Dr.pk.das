@@ -94,7 +94,7 @@ const Footer = () => {
           className="mt-8 text-base leading-6 text-center text-gray-400"
           variants={fadeInUp}
         >
-          © 2024 SomeCompany, Inc. All rights reserved By the Author Or Owner
+          © 2024 Dr.PK Das, Inc. All rights reserved. Powered By Aniket Agarwal
         </motion.p>
       </motion.div>
     </motion.footer>

@@ -81,7 +81,7 @@ const AllCoursal = () => {
                 <img
                   src={image}
                   alt={`Slide ${index + 1}`}
-                  className="w-full h-64 object-cover rounded-lg shadow-md border" // Ensuring full width and proper scaling
+                  className="w-full h-64 rounded-lg shadow-md border" // Ensuring full width and proper scaling
                 />
               </div>
             </SwiperSlide>
